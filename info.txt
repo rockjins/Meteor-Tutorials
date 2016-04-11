@@ -1,2 +1,0 @@
-My First git
-This is a test
