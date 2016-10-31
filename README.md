@@ -43,14 +43,11 @@ def start(user):
 				answer = int(answer)
 				if answer<num:
 					print u'%d 太小了!'%answer,
-
 				elif answer>num:
 					print u'%d 太大了!'%answer,
-
 				else:
 					print u'%d 是正确答案!'%answer,
 					bingo = False
-
 				count+=1
 				print u'你猜了%d次。'%count
 			else:
