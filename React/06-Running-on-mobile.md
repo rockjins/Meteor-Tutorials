@@ -81,4 +81,4 @@ meteor run ios-device
 
 上一节：[Update and remove(更新和移除)](https://github.com/rockjins/Meteor-Tutorials/blob/master/React/05-Update-and-remove.md)
 
-下一节：[Temporary UI state(临时界面状态)未翻译]()
+下一节：[Temporary UI state(临时界面状态)](https://github.com/rockjins/Meteor-Tutorials/blob/master/React/07-Temporary-UI-state.md)

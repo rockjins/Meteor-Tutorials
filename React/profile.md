@@ -12,7 +12,7 @@
 
 6. [Running on mobile(在移动端运行)](https://github.com/rockjins/Meteor-Tutorials/blob/master/React/06-Running-on-mobile.md)
 
-7. [Temporary UI state(临时界面状态)待翻译]()
+7. [Temporary UI state(临时界面状态)](https://github.com/rockjins/Meteor-Tutorials/blob/master/React/07-Temporary-UI-state.md)
 
 8. [Adding user accounts(添加用户账号)待翻译]()
 
