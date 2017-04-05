@@ -1,4 +1,4 @@
-#My first python program
+# My first python program
 希望自己能够坚持下来学习python吧，人生苦短，你懂的......
 
 源码其实很简单，我只是昨晚开始学习python的，写出个小小程序来还挺激动的。
